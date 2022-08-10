@@ -1,6 +1,6 @@
 # wrb.RO
 
-## This is an updated fork 
+## This is an updated fork that fix security risks and bad optimization
 
 ### What does this do?
 
