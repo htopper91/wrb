@@ -7,7 +7,7 @@
     "test": "npm test",
     "start": "node server.js"
   },
-  "author": "Xtrendence",
+  "author": "htopper",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
