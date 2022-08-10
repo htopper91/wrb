@@ -1,7 +1,7 @@
 {
-  "name": "x-anonymous",
-  "version": "1.0.0",
-  "description": "An anonymous end-to-end encrypted chat web application.",
+  "name": "wrb.RO",
+  "version": "2.0.1",
+  "description": "An updated fork.",
   "main": "server.js",
   "scripts": {
     "test": "npm test",
