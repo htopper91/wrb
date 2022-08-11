@@ -2,6 +2,9 @@
 
 ## This is an updated fork that fix security risks and bad optimization
 
+# Side notes
+
+Most browsers have a limit of 5MBs of local storage per website. If the storage gets full, new messages and conversations won't be saved. You can keep an eye on it through the settings pane to clear local storage.
 ### What does this do?
 
 This is a self-hosted, open-source, end-to-end encrypted chat application that doesn't save conversations. Basically, when you create a conversation, a private and public key pair is generated locally on your browser. Nobody else (including the server) knows what the private key is. When you send messages to the other person using wrb.RO, the message is encrypted using RSA. Conversations are stored locally as well, so the server literally saves no information about you by design and since it's self hosted, you can know for sure that there isn't any malicious code or anything that could compromise the security of your communications.
