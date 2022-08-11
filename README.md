@@ -1,6 +1,6 @@
 # wrb.RO
 
-## The original project was abandoned so I made a fork that fix many vulnerabilities that I found and some bugs that could cause leakage. I will add more things like a self destruct timer on chat in the future
+## **The original project was abandoned so I made a fork that will fix vulnerabilities and bugs. I will add more things like a self destruct timer on chat in the future**
 
 # Side notes
 
