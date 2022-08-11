@@ -1,6 +1,6 @@
 # wrb.RO
 
-## This is an updated fork that fix security risks and bad optimization
+## This is an updated fork that fix security risks and bad optimization. An anonymous Node.js chat web application for end-to-end encrypted communication. All encryption is done on the client-side using RSA-2048/3072/4096, so the server literally knows nothing.
 
 # Side notes
 
